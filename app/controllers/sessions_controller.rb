@@ -18,3 +18,5 @@ class SessionsController < ApplicationController
     request.env['omniauth.auth']
   end
 end
+
+#submit me
